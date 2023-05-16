@@ -1,0 +1,16 @@
+You can easily rotate the 3D board by clicking and dragging with the right mouse button.
+You can move pieces on either the 3D board, or the 2D board, just click a piece with your left mouse button and drag it to where you want to move.
+You can change how tough the computer opponent is by going to 'Options->Computer Play Options...' Click the Help button on this dialog box to find out more.
+PGN files can be downloaded from the Internet, and can contain thousands of games which you can browse through and study. Press Ctrl+O to open a PGN file.
+If you just want to use the 3D board view then you can make it fill the entire screen by pressing Ctrl+E, pressing this again returns to the default view.
+You can get a hint by pressing Ctrl+H, this will make the computer display the best move it can think of.
+You can configure the computer opponent to use different types of opening by going to: 'Options->Openings...' you can choose from several different styles.
+You can force the computer to make a move by pressing Ctrl+P, it will even make a move for you if it's your turn.
+You can go backwards or forwards through your moves at any time using the arrow keys, which is useful for analysing games, or taking back a bad move.
+You can swap sides and play as the opposite color by pressing Ctrl+B, you can even do this halfway through a game and continue playing as the other side.
+You can save your game as a PGN file by pressing Ctrl+S, PGN files are recognised by most chess software and analysis programs.
+You can zoom in or out of the 3D board by pressing the + or - keys, or you can click the magnifying glass on the toolbar.
+The opening being used in a game is automatically detected and display in the bottom-right of the screen, this is useful for learning new openings.
+If you have a slow computer you can disable the 3D board view by pressing Ctrl+D, this will dramatically increase performance.
+You can rotate the 2D board 180 degrees by pressing Ctrl+R, which is useful for seeing the game from your opponent's perspective.
+You can view a list of the game moves by pressing Ctrl+L
